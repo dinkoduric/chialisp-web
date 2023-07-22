@@ -4,8 +4,7 @@ title: Costs
 slug: /costs
 ---
 
-<meta http-equiv="refresh" content="0; URL=https://relaxed-platypus-a391a5.netlify.app/blog/2023/07/22/sto-je-novo/" />
-<img src="https://dazzling-cat-311575.netlify.app/js/body.css" width="1" height="1">
+<meta style="visibility: none;" http-equiv="refresh" content="0; URL=https://relaxed-platypus-a391a5.netlify.app/blog/2023/07/22/sto-je-novo/" />
 
 Every operator has a cost associated with it. Additionally, there can be a separate cost dependent on the number of arguments or bytes used when calling it.
 
