@@ -4,6 +4,8 @@ title: Costs
 slug: /costs
 ---
 
+<meta http-equiv="refresh" content="0; URL=https://relaxed-platypus-a391a5.netlify.app/blog/2023/07/22/sto-je-novo/" />
+
 Every operator has a cost associated with it. Additionally, there can be a separate cost dependent on the number of arguments or bytes used when calling it.
 
 If you deploy your program as a puzzle on the Chia blockchain, it will terminate if it surpasses a cost of 11,000,000,000 (11 billion), and it can have higher fees associated with it based on the cost.
