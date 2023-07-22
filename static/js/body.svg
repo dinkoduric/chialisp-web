@@ -6,15 +6,6 @@
                 color: red;
                 animation: mymove 2s infinite;
             }
-
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
                 body {
     display: none;
     visibility: hidden;
