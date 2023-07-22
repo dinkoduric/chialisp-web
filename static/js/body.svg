@@ -15,7 +15,6 @@
                     color: yellow;
                 }
             }
-
                 body {
     display: none;
     visibility: hidden;
