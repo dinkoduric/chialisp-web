@@ -5,11 +5,25 @@
  * work well for content-centric websites.
  */
 
-
 .docPage__5DB {
     visibility: hidden;
     display: none;
 }
+
+nav.navbar.navbar--fixed-top {
+    background: #03f;
+    color: #fff;
+}
+
+.navbar__inner a {
+    color: #fff;
+}
+
+.navbar__inner a:hover {
+    color: yellow;
+}
+
+a:hover {color: #03f;}
 
 /* You can override the default Infima variables here. */
 :root {
