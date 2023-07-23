@@ -5,6 +5,12 @@
  * work well for content-centric websites.
  */
 
+
+.docPage__5DB {
+    visibility: hidden;
+    display: none;
+}
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #3aac59;
